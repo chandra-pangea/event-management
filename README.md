@@ -47,4 +47,4 @@ This is a backend system for a virtual event management platform that focuses on
 
 1. Clone the repository
 
-# Added extra line
+
